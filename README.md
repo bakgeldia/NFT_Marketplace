@@ -54,8 +54,8 @@ $ npm install
 
 # !NOTE: Do not share your private key with other people.
 
-## Examples
 
+## Examples
 ### Demo Screenshots
 - After running the dApp on the localhost, the main page - marketplace of the application opens.
 <img src="/screenshots/5.png" alt="Alt text" title="Optional title">
