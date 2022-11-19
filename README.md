@@ -9,12 +9,17 @@
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Pinata](https://app.pinata.cloud/) (NFT storage)
 
-### Requirements For Initial 
+### Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
 - Install [Hardhat](https://hardhat.org/)
    
 ### Installation process
 ### 1. Clone/Download the Repository
+- Click the green button on the top right side of the repository and copy HTTPS link.
+<img src="/screenshots/2.png" alt="Alt text" title="Optional title">
+- Run command line. Choose the directory, where you want to clone the repository. Then run this command:
+`$ git clone <link to the repository> <name of new directory> [optional]`
+<img src="/screenshots/3.png" alt="Alt text" title="Optional title">
 
 ### 2. Install Dependencies:
 ```
@@ -28,7 +33,7 @@ $ npm install
 <img src="/screenshots/1.png" alt="Alt text" title="Optional title">
 
 ### 4. Migrate Smart Contracts
-`npx hardhat run /scripts/deploy.js --network goerli`
+`$ npx hardhat run /scripts/deploy.js --network goerli`
 
 ### 5. Run Tests
 `$ npx hardhat test`
