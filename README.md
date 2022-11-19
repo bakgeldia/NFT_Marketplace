@@ -20,9 +20,7 @@
 - Run command line. Choose the directory, where you want to clone the repository. Then run this command: 
 
 `$ git clone 'link to the repository' 'name of new directory'`
-  
-   
-   
+
 </br><img src="/screenshots/3.png" alt="Alt text" title="Optional title">
 
 ### 2. Install Dependencies:
@@ -46,6 +44,13 @@ $ npm install
 `$ npm run start`
 
 ## Usage
+
+###Pinata key and secret
+- In the file [.env], which is under the root directory of the repository, insert your own Pinata account key and secret that is shown after signing up.
+<img src="/screenshots/4.png" alt="Alt text" title="Optional title">
+- After that, in the file [hardhat.config.js] under the section [goerli] add the private key of your Metamask account. 
+
+!!! NOTE: Do not share your private key with other people.
 
 
 
