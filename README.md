@@ -69,5 +69,11 @@ $ npm install
 - "Profile" page shows the address of the wallet, number of NFTs, their total value in ETH, and owned NFTs.
 <img src="/screenshots/8.png" alt="Alt text" title="Optional title">
 
+## References
+- <a href="https://www.youtube.com/watch?v=y6JfVdcJh1k&ab_channel=Alchemy">How to build an NFT Marketplace from Scratch - Solidity and IPFS | Road to Web3</a>
+- <a href="https://www.youtube.com/watch?v=GKJBEEXUha0&ab_channel=NaderDabit">How to Build a Full Stack NFT Marketplace on Ethereum with Polygon and Next.js</a>
+- <a href="https://www.youtube.com/watch?v=2bjVWclBD_s&t=2248s&ab_channel=DappUniversity">Code an NFT Marketplace like OpenSea Step-by-Step [ERC-721, Solidity]</a>
+- <a href="https://web3.hashnode.com/solidity-tutorial-creating-an-ethereum-dapp-with-ethersjs#heading-step-4-getting-goerli-testnet-token">Solidity Tutorial: Creating an Ethereum dApp With Ethers.js</a>
+
 ## License
 Contract is released under the [MIT License](LICENSE).
