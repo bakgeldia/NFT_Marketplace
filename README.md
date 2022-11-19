@@ -58,7 +58,7 @@ $ npm install
 - After running the dApp on the localhost, the main page - marketplace of the application opens.
 <img src="/screenshots/5.png" alt="Alt text" title="Optional title">
 
-- We may connect by clicking the button on the right side. /Under the button, it is written that we are not connected/. As we click the button, the Metamask pop-up will be shown: here choose the account with which we want to connect and confirm.
+- We may connect by clicking the button on the right side. Under the button, it is written that we are not connected. As we click the button, the Metamask pop-up will be shown: here choose the account with which we want to connect and confirm.
 <img src="/screenshots/6.png" alt="Alt text" title="Optional title">
 
 - "List My NFT" page allows the user to create the NFT and list it to the marketplace, and sell it. After listing the NFT, it will be shown on the marketplace page.
