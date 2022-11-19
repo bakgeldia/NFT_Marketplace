@@ -19,6 +19,7 @@
 <img src="/screenshots/2.png" alt="Alt text" title="Optional title">
 - Run command line. Choose the directory, where you want to clone the repository. Then run this command: </br>
 `$ git clone <link to the repository> <name of new directory> [optional]`
+
 <img src="/screenshots/3.png" alt="Alt text" title="Optional title">
 
 ### 2. Install Dependencies:
