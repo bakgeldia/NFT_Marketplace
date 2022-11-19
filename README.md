@@ -17,7 +17,7 @@
 ### 1. Clone/Download the Repository
 - Click the green button on the top right side of the repository and copy HTTPS link.
 <img src="/screenshots/2.png" alt="Alt text" title="Optional title">
-- Run command line. Choose the directory, where you want to clone the repository. Then run this command:
+- Run command line. Choose the directory, where you want to clone the repository. Then run this command: </br>
 `$ git clone <link to the repository> <name of new directory> [optional]`
 <img src="/screenshots/3.png" alt="Alt text" title="Optional title">
 
